@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "bb757d2f1cf9d801287ac8b7a248ea365f8a8afbbf015220dd18077a8a8aa464"
 
 [[files]]
+file = "Yukkuricraft"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/WildlifeConfig.json"
 hash = "8e082f291718541a5f2b9973683926e0701ac9757b05c1157c2017ac9135814e"
 
