@@ -1,0 +1,13 @@
+name = "Yukkuricraft: Border of Magic & Tech"
+author = "Taiyouh"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fcc4c50fcd66466d70ab0101a030238a41fd44fb217bbdd28b6a4e00b92a5631"
+
+[versions]
+fabric = "0.15.6"
+minecraft = "1.20.1"

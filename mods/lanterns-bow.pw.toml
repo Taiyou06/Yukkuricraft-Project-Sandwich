@@ -1,0 +1,13 @@
+name = "Lanterns Belong on Walls"
+filename = "lanterns-belong-on-walls-1.6.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37bd855b4747b702a140d3e176794b7c92e992e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4642481
+project-id = 596474

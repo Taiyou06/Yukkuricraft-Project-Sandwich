@@ -1,0 +1,13 @@
+name = "Roots Classic (Fabric)"
+filename = "rootsclassic-1.20-1.2.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa166a141d9b6548d3eae890aa3d7f94ad0e03a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4675070
+project-id = 878518

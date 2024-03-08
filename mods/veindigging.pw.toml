@@ -1,0 +1,13 @@
+name = "VeinDigging"
+filename = "VeinDigging-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52957f9011f536574a6e5271f561550b144d6489"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4573932
+project-id = 849999

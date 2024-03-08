@@ -1,0 +1,13 @@
+name = "Expanding Technologies"
+filename = "expandingtechnologies-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0f5495f4fd821e06df017a6d0c5a18904590b8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4814336
+project-id = 884893

@@ -1,0 +1,13 @@
+name = "Hey That's Mine"
+filename = "htm-1.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e82e8eee204860e2353e6584496be3862df1466"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4582725
+project-id = 462534

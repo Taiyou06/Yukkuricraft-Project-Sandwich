@@ -1,0 +1,6 @@
+uuid: 861b7069-0361-4770-be8f-cd0b6606125b
+name: Taiyouh
+isGroup: false
+parentGroups: default, 
+permissions:
+- example.permission

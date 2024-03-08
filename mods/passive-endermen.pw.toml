@@ -1,0 +1,13 @@
+name = "Passive Endermen"
+filename = "passiveendermen-1.20.1-4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9747f719a1373d6ed6cd42581785eb8e23b6a996"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4976264
+project-id = 378921

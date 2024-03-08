@@ -1,0 +1,187 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = bg
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-centered
+  x = -100
+  action = movebutton
+  y = 187
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = top-centered
+  x = -100
+  action = movebutton
+  y = 235
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376310%
+  orientation = top-centered
+  x = -124
+  action = movebutton
+  y = 187
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-centered
+  x = -100
+  action = movebutton
+  y = 163
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-centered
+  x = -100
+  action = movebutton
+  y = 271
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = top-centered
+  x = 2
+  action = movebutton
+  y = 271
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = aa0683e7-490b-438b-9eed-fb766f6f18861701950918872
+  y = 497
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 1aa37320-88e9-40db-adf7-018de97c696a1701950918884
+  y = 227
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 95f7805a-6438-46ac-977f-7e706cda8c471701950918884
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = false
+  x = 167
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 7d5de816-17e7-4f73-9b98-aefdc3a9bc241701950918884
+  y = 140
+  height = 30
+}
+
+customization {
+  orientation = top-centered
+  loopbackgroundanimations = true
+  hoverlabel = Connect to the YC: BMT Server
+  restartbackgroundanimations = true
+  buttonaction = joinserver;bmt.yukkuricraft.net%btnaction_splitter_fm%
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = 747c8bac-4076-43f8-9982-0434f04bad421701951158372
+  y = 211
+  label = Delve into Gensokyo
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  copy_client_player = true
+  slim = false
+  auto_skin = false
+  scale = 60
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/7ddc3862d95e38be98890f42f0bb73bc10c71e6b64d4f7ee58be55398d2b975d
+  showname = true
+  crouching = false
+  follow_mouse = true
+  x = -232
+  width = 36
+  parrot_left_shoulder = false
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 6ec6d679-3890-4a03-9e57-d196c0cb82301701955014052
+  y = 189
+  playername = Taiyouh
+  bodyrotationx = 0.0
+  parrot = false
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 108
+}
+
+customization {
+  path = config/fancymenu/resources/yc_bmt_new.png
+  orientation = top-centered
+  x = -226
+  width = 453
+  action = addtexture
+  actionid = 57bb5d9b-d752-4abb-ae84-9c4ce4aa5fa21704658944547
+  y = 43
+  height = 100
+}
+

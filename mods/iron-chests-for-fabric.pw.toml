@@ -1,0 +1,13 @@
+name = "Iron Chests (Fabric)"
+filename = "IronChests-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85c69052c7d608086f7139ab511c73bae209086c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4591530
+project-id = 498534
