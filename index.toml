@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "bb757d2f1cf9d801287ac8b7a248ea365f8a8afbbf015220dd18077a8a8aa464"
 
 [[files]]
-file = "Yukkuricraft"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/WildlifeConfig.json"
 hash = "8e082f291718541a5f2b9973683926e0701ac9757b05c1157c2017ac9135814e"
 
@@ -1759,11 +1755,6 @@ file = "mods/iris-mc1.20.1-1.6.11.jar"
 hash = "4e09d0fb24cf16c4f3e651d172071fc5a4ddadd157a02ce74c9a520de4553c2b"
 
 [[files]]
-file = "mods/iron-chests-for-fabric.pw.toml"
-hash = "03bf77e19ec8a9627f7461a5dd562a80e9a8befe0c0d7a5decf0cba72461b610"
-metafile = true
-
-[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "e878f32f538088bd287eb104a95b98e219fbd950456cfc63811e0a95cb04ec2f"
 metafile = true
@@ -1992,6 +1983,11 @@ metafile = true
 [[files]]
 file = "mods/roots-classic-fabric.pw.toml"
 hash = "184df207197f105cdf1cddde863c348cfa70979da3532e66be2bfa615c5087cb"
+metafile = true
+
+[[files]]
+file = "mods/rotten-flesh-to-leather-mod-fabric.pw.toml"
+hash = "edfa329abb085da42c779202f01cd542b0c846b5cf413af503ea3fcab5d0cf1b"
 metafile = true
 
 [[files]]
