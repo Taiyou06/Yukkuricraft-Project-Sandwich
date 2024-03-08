@@ -1986,9 +1986,8 @@ hash = "184df207197f105cdf1cddde863c348cfa70979da3532e66be2bfa615c5087cb"
 metafile = true
 
 [[files]]
-file = "mods/rotten-flesh-to-leather-mod-fabric.pw.toml"
-hash = "edfa329abb085da42c779202f01cd542b0c846b5cf413af503ea3fcab5d0cf1b"
-metafile = true
+file = "mods/rottenflesh-to-leather_1-20-x.jar"
+hash = "9f6403987e09dd24b9449b90105ae0106d09dd7c512ba13a12d915e409c48285"
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
