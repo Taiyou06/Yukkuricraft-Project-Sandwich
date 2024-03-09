@@ -1542,11 +1542,6 @@ hash = "df4a2abec8e59fbce59a7ebbfdb26b840ed397432b037bce3e3e89609dc35cb3"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "2b48a743f3c3df3f9a01d574b7df792aa2d086146721734361688f4842ca4be0"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric-0.5.1-d-local+mc1.20.1.jar"
 hash = "0cde2eee6abe4ad990fd00ee8e9693124fe52e2b2f6245b58ac6d99ed018dad6"
 
@@ -2118,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "35c880a97d41288e03e517f02070d929c4b3b9ed5734510de1eb78de0872aa47"
+hash = "b7326bb94b4a365c3c4f9b8ba22952d57d13775242d092f1a9ca0c8319a1e058"
 metafile = true
 
 [[files]]
