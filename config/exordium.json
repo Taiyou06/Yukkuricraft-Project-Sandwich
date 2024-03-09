@@ -1,6 +1,6 @@
 {
   "configVersion": 3,
-  "enableSignBuffering": true,
+  "enableSignBuffering": false,
   "targetFPSNameTags": 60,
   "enableNametagScreenBuffering": false,
   "pollRate": 60,
@@ -8,7 +8,7 @@
     "enabled": true,
     "maxFps": 20,
     "forceBlend": false,
-    "forceUpdates": false
+    "forceUpdates": true
   },
   "debugScreenSettings": {
     "enabled": true,

@@ -1,12 +1,12 @@
 name = "Yukkuricraft-Border-of-Magic-and-Tech"
 author = "Taiyouh"
-version = "1.1.4"
+version = "1.1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "10f56c1c0e1462240edd5f309da241b7f50b5038b834c09dadff3bfe69a3a082"
+hash = "a4f3f7b9ad0b96154370bb9b48ba436c244196f51236705d2e3ea2cfce1241a8"
 
 [versions]
 fabric = "0.15.6"

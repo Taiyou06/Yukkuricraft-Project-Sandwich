@@ -282,7 +282,7 @@ hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 
 [[files]]
 file = "config/exordium.json"
-hash = "f431da1728e0d5a3536178cbb9948e2497801c9b6d51ba063fc831040aa42523"
+hash = "28023712fa79d662058823e5a23c28ad71bb0b7f604e22fb428d45cd95ba0a19"
 
 [[files]]
 file = "config/extended_drawers.json"
