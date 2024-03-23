@@ -1409,6 +1409,10 @@ file = "mods/Modern-Industrialization-1.8.0.jar"
 hash = "f0f30fab983d36aedf627089c6ff39671566724be64617459914dc4dd26d456b"
 
 [[files]]
+file = "mods/Soulbound-Fabric-0.6+1.20.1.jar"
+hash = "801036cddeaa08e239c199919547a3cdb1e5b214346d15e30b2a6cda961a69a1"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "f87162557394f665de9f6517eed9771c2b28d491920fb325b1c666d8e535f325"
 metafile = true
@@ -1565,6 +1569,10 @@ hash = "881cb559a7c2f0624484cba4c3d2363b03cb8faa08469b754d732f5599529583"
 metafile = true
 
 [[files]]
+file = "mods/create_enchantment_industry-1.2.14.jar"
+hash = "9e293f5bcf1365fa5421ae856de1410d46e0d37c87e640ce09d0072e017e1dea"
+
+[[files]]
 file = "mods/create_so-1.6+1.20.1.jar"
 hash = "31c61f46146351017c93ba6b3b101853eef1fb34dcbe0c93d09c8fb39b9febd2"
 
@@ -1709,6 +1717,10 @@ metafile = true
 [[files]]
 file = "mods/geckolib-fabric-1.20.1-4.3.1.jar"
 hash = "b45dad882f6b9d1d5e93c78e0717dba309657c6d14c7a4abd3dc4c2e3f3b8448"
+
+[[files]]
+file = "mods/graves-3.0.1+1.20.1.jar"
+hash = "5726b88ebcbc5389c35bab595b04ab86d011735afa0cde8fae3e865fcad47ff6"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -2129,11 +2141,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
-metafile = true
-
-[[files]]
-file = "mods/youre-in-grave-danger.pw.toml"
-hash = "acb8ea9a987e586f43b5f9be82d1b8687d6f4a0c04cb6642d09824bc35bdda8e"
 metafile = true
 
 [[files]]
