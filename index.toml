@@ -1946,6 +1946,11 @@ hash = "202de689b520f9065165947d0799d7d2d464983c6c0bfcef13d746187fbed0b3"
 metafile = true
 
 [[files]]
+file = "mods/origins-umbrellas.pw.toml"
+hash = "93ce31927d96675825a9789da062705661c51e478f8842f39b8a22580a86c479"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "c4c328f1f55efec94860cc2a5927ef1077f995748e6199a44f161681d567b141"
 metafile = true
