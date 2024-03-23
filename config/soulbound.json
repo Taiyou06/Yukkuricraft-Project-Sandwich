@@ -1,0 +1,15 @@
+{
+  "conflictWithVanishingCurse": true,
+  "isTreasure": true,
+  "allowBreakItem": false,
+  "maxDamagePercent": 0,
+  "minPower": 0,
+  "powerRange": 50,
+  "compatibilityMode": "BLACKLIST_AND_DEFAULT",
+  "blacklist": [
+    "travelersbackpack:*",
+    "travelersbackpack:standard*",
+    "travelersbackpack:pig*"
+  ],
+  "whitelist": []
+}

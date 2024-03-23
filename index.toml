@@ -817,6 +817,10 @@ file = "config/sodium-options.json"
 hash = "971377be330405b5950f878070f62150cf71463ecccfd0419bda98513cd3b19d"
 
 [[files]]
+file = "config/soulbound.json"
+hash = "b22e1ddadac6826e2c3158645580c2552fc7c85ce3844f40102245fde2a46063"
+
+[[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "dc8277fb27f6a11f26754e6030f4dc4b9181d3c8c560951768c03b63067ec94b"
 
@@ -866,7 +870,31 @@ hash = "3349153e9cb33227c5fd3b597fcea5ccbd480a6e5396b19004cbea07365ec433"
 
 [[files]]
 file = "config/travelersbackpack.json5"
-hash = "8e89aa00bf3d98628ca808b36502beb1d030b43c68726ca1c2c311d60a6b37c1"
+hash = "54ef7f2fe128f79b96de953890f76a37c74d376c559942a1b499b84c02eb43a2"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "ff8323716710c505868dffc0f36a13fe865ec272912aed824c0ccab619cb38ec"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+hash = "7a5d06bb65a05beabb48f74a7f9aead1ddd88cbed5033ce8a284c1504a545eac"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+hash = "6f8b61ca512ac41462824a4642e2019abdb6778e79d3925a818924233e532a75"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 
 [[files]]
 file = "config/veindigging.json"

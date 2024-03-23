@@ -23,14 +23,14 @@
 		// Prevents backpack disappearing in void
 		"voidProtection": true,
 		// Places backpack at place where player died
-		"backpackDeathPlace": true,
+		"backpackDeathPlace": false,
 		// Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
 		"backpackForceDeathPlace": false,
 		"enableSleepingBagSpawnPoint": false,
 		/* If true, backpack can only be worn by placing it in curios 'Back' slot
 		   WARNING - Remember to TAKE OFF BACKPACK BEFORE enabling or disabling this integration!! - if not you'll lose your backpack
 		*/
-		"trinketsIntegration": false
+		"trinketsIntegration": true
 	},
 	"world": {
 		// Enables backpacks spawning in loot chests
