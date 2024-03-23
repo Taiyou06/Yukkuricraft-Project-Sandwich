@@ -2081,14 +2081,13 @@ hash = "6d550472363cf38a2058928fe4110c71dd5e4ea4319078674b277b24c00dadf5"
 metafile = true
 
 [[files]]
-file = "mods/touhou-origins-blessings.pw.toml"
-hash = "dd3ba68827151dbe089c0de5cb8daede6e756c38357e22790498eba083f676d1"
-metafile = true
-
-[[files]]
 file = "mods/touhou-origins.pw.toml"
 hash = "fa0b84cd3a5ebdfe72043ae693263e1730045a61cbfb4cb80afe1d6a01f7676c"
 metafile = true
+
+[[files]]
+file = "mods/touhoublessings-1.20.1-1.0.4.jar"
+hash = "73ec5f27574253f5c48b6957cca682ad84645c9b308659f7b1430bc30995e453"
 
 [[files]]
 file = "mods/trashslot-fabric-1.20-15.1.0.jar"
