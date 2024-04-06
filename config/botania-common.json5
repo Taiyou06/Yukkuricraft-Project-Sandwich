@@ -20,7 +20,7 @@
 	// Set this to false to disable the animation when an item is charging on top of a mana pool
 	"chargeAnimation": true,
 	// Set to false to disable the ability for the Hand of Ender to pickpocket other players' ender chests
-	"enderPickpocket": true,
+	"enderPickpocket": false,
 	// Set this to false to disable the Mana Enchanter. Since some people find it OP or something. This only disables the entry and creation. Old ones that are already in the world will stay.
 	"manaEnchanter": true,
 	// Set this to false to disable the Relic System. This only disables the entries, drops and achievements. Old ones that are already in the world will stay.
