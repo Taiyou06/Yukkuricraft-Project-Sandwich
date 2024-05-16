@@ -162,11 +162,7 @@ hash = "651452d26846ab642e76eabc912e87cd4ae84404f546fb9bebe497e3c1622d4a"
 
 [[files]]
 file = "config/botania-common.json5"
-<<<<<<< HEAD
 hash = "1995768e9373549d36446db2136cc904e28f1ab291c19e34ec1221318460fe87"
-=======
-hash = "34e9ccc5d052f8791f8feb8af97fe578c1c1435e7426accd87a75a687cfba544"
->>>>>>> 6f00f97f5137eae62d2f15dc87fc94c041cd8f9b
 
 [[files]]
 file = "config/c2me.toml"
@@ -1648,7 +1644,6 @@ hash = "cacd0b884c6969862cfabaf03b1a2f90c84ad5a521738ee66bd9043e8a045d9c"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
 file = "mods/custom-player-models.pw.toml"
 hash = "78d4c237ba3df54e7a3912a9a70aceab95bd1216b97df36379ad43b4f3fc4511"
 metafile = true
@@ -1656,10 +1651,6 @@ metafile = true
 [[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "25be1764f98497d622e746d4b549d13518a8127e6fafe935a5259fc63f738fc7"
-=======
-file = "mods/custom-player-models-fabric.pw.toml"
-hash = "d5d5fd6409447fd6be6fe450323b998a87ed71eb6d3836b893582e65a7d1009b"
->>>>>>> 6f00f97f5137eae62d2f15dc87fc94c041cd8f9b
 metafile = true
 
 [[files]]
@@ -2155,11 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-<<<<<<< HEAD
 hash = "36a46701d9aa137c61c0008f0c8a7e32e501a56d220688688a3bdad93579fd45"
-=======
-hash = "5113afb95c37a18d4fec0e7521707354cb09f68b16952588855dfdd26ca5290e"
->>>>>>> 6f00f97f5137eae62d2f15dc87fc94c041cd8f9b
 metafile = true
 
 [[files]]
