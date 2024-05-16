@@ -1,0 +1,13 @@
+name = "Additional Additions | Fabric"
+filename = "AdditionalAdditions-6.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68c8873544b4b01708c9f508c49ac401db079541"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5152577
+project-id = 508556

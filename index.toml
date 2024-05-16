@@ -162,7 +162,7 @@ hash = "a438ccb43609ac2a84d4a6b299442447f3b6c2589a108ef67afda8cd34b5457e"
 
 [[files]]
 file = "config/botania-common.json5"
-hash = "93f1c98f3317eba367a172678810157f2eb5337ff8ae2f879dd17a95e4ab4279"
+hash = "1995768e9373549d36446db2136cc904e28f1ab291c19e34ec1221318460fe87"
 
 [[files]]
 file = "config/c2me.toml"
@@ -1446,6 +1446,11 @@ hash = "fffea1ad2f0f06cb1988222afdb25b4c07667750d517dee62b63a5e5b1541277"
 metafile = true
 
 [[files]]
+file = "mods/additional-additions.pw.toml"
+hash = "8b6037f2a2030f911262099b9d22026429a9896d9409d615a04135c8406c6d89"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "e413934f63d43c066c673b8f7fa67c20d5530b216231679a388522c7e9e0690b"
 metafile = true
@@ -1494,6 +1499,11 @@ hash = "0670ddd17149ff523405856bd5b52f8204d8e6ba400c289c3286b523718d6f09"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "396d37ad75490eff495442503d6bd0bd6a26162a61ca860988f9d9ce064b4fea"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "4fd2eb04253e36d991777acec5572d891a01f1eda50cf7f32a55f74314ec6815"
 metafile = true
@@ -1521,6 +1531,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "b5eda3f25dda233318ba8de71dddf74ae36ad0d634c0b57be1f045a07f089416"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
 metafile = true
 
 [[files]]
@@ -1556,6 +1571,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "89d9572ad738ef927d83a1b2cc811204a3a60c961bce7c71e7b207d2af54c242"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
@@ -1624,8 +1644,13 @@ hash = "0398b6bc453b61a084fd93e89175ef920f1153fde6f11fac46b48b5f3f57600d"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models-fabric.pw.toml"
-hash = "8e5a54b7fa4ac6ace7180f90083249171909ae3d4557d726b10c75cf0290fd18"
+file = "mods/custom-player-models.pw.toml"
+hash = "78d4c237ba3df54e7a3912a9a70aceab95bd1216b97df36379ad43b4f3fc4511"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "25be1764f98497d622e746d4b549d13518a8127e6fafe935a5259fc63f738fc7"
 metafile = true
 
 [[files]]
@@ -1719,6 +1744,11 @@ hash = "7ad7e44e1252cde0309fe03ebc515ca3453e6e42119807e5f6949d4e9b06dbca"
 metafile = true
 
 [[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+hash = "3b09bb825c6293c1c1fb2addd2c88e03af6cb4f0cc72040cd8696a51a3ef8f5f"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "6cf6ae5e1d93484ba3a75adf1795f4c315ba23a99f0fa40efaa5d299ea79c0e7"
 metafile = true
@@ -1771,6 +1801,11 @@ hash = "60228af3f02bae44e1fdcce20317ad7c65fc81776b454f27aec12af4f2a31bed"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "809c13f43e35f7792d420ba0d525fa2adb339886766b55c588ed52c0023e08af"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "639889dcb57d10e57bf11da619d70a9da28429cf5150883c1c3d29c5df482ef5"
 metafile = true
@@ -1783,6 +1818,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "f44328bcaee214017937237eb00c5ec7dd7af3c4923b75774522b72eecff44f3"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "c79bc97a7a233978a7ecc0dedc6964f30116bc20b8cc6813adebbcef95e33e21"
 metafile = true
 
 [[files]]
@@ -1986,6 +2026,11 @@ hash = "e4fe1790c90dbdf6c832c0c053ca1b4891187a70bca00f49f65af4b66f9ce69f"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "95d637adfbd0595a017c111e01c55ee4b1f7020ba279611ad364e6bdf881bbc8"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "13a6de8a6b3d7ac6f588f0734a04b0bc46a59da1bfa82ddcfc40d3b2f746d7fa"
 metafile = true
@@ -2037,6 +2082,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "8c3fcfadf957abb1f7482a4a16dfcb581d44f3021eb9875ec912fd22372b86be"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "f4e27dcb0732e442dc7cc6019e125e3e933baf405bd13e916d837089e80ab109"
 metafile = true
 
 [[files]]
@@ -2114,6 +2164,11 @@ hash = "add3f99be438de47843e0a14101b3df757dac3e37390bfbe5463a8ef18027544"
 metafile = true
 
 [[files]]
+file = "mods/touhou-origins-phantasm.pw.toml"
+hash = "12c9f8d6f0a0ed9f508a5d905577b418bb8804f24ab37e0e9cec3c0ffbc37a65"
+metafile = true
+
+[[files]]
 file = "mods/touhou-origins.pw.toml"
 hash = "feecbd62426c5f1023c9c52ef0fbd3f7d0cfc66ccb0cb93916c7cb7b57d82dc7"
 metafile = true
@@ -2139,6 +2194,11 @@ metafile = true
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "cfecce78fe0579bef0c6da560ea565b47c2c5257139ddd056f7338ed22e5c90d"
+metafile = true
+
+[[files]]
+file = "mods/variant-tiered-shields-fabric.pw.toml"
+hash = "a2e41f2d956d2587a352825e765663f8f7c2474cd6c69aa9dc0ce6f97b36e1cd"
 metafile = true
 
 [[files]]

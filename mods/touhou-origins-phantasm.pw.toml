@@ -1,0 +1,7 @@
+name = "Touhou Origins:Phantasm"
+filename = "Touhou_Origins_Phantasm_1.0.0.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1077760278328000552/1226003442892537908/Touhou_Origins_Phantasm_1.0.0.jar?ex=66232fae&is=6610baae&hm=140bba2bc85fcd42db6c92e1c0863ab0dce11bf91506d117b975413731f6c55f&"
+hash-format = "sha256"
+hash = "0ce9c6404e4bef6d04e9fbe0efa6ae11faf66734a707e95759fa38ccb75b3a24"
