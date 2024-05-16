@@ -1451,6 +1451,11 @@ hash = "8b6037f2a2030f911262099b9d22026429a9896d9409d615a04135c8406c6d89"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "d6a4f66c8d3c35ece84ea61c879d5098602d9b844322ca8eda4d66a762e4f8b0"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "e413934f63d43c066c673b8f7fa67c20d5530b216231679a388522c7e9e0690b"
 metafile = true
@@ -2091,7 +2096,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b964555bfa34d92b63c9773ab5105dd5d4c0e1f2e30ffc875078c4361df343a4"
+hash = "1c7a35895037377f9426d93fb68642e4308bd6f3e58f453011278c7a9ee1085e"
 metafile = true
 
 [[files]]
@@ -2146,7 +2151,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f72db93f653ee9484f0c6811e779bfed4bbbb9832a3a317285feb2b9ed748756"
+hash = "659a518a56f37eeaee2baacf59c70b293cb58c09c48dbef2c6e85eecc882034f"
 metafile = true
 
 [[files]]
